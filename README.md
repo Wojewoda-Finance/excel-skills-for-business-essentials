@@ -18,4 +18,8 @@ Practical Excel tasks using a business dataset, including:
 - identifying records using filters and search tools,
 - top/bottom percentage analysis.
 
+## Screenshots
+
+### W04 Assessment
+![W04 Screenshot](w04-screenshot.png)
 
