@@ -21,5 +21,5 @@ Practical Excel tasks using a business dataset, including:
 ## Screenshots
 
 ### W04 Assessment
-![W04 Screenshot](w04-screenshot.png)
+![W04 Screenshot](image.png)
 
