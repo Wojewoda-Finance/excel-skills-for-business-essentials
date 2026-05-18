@@ -77,7 +77,7 @@ The project included:
 
 Completed the "Excel Skills for Business: Essentials" course by Macquarie University via Coursera.
 
-[View Certificate PDF](./excel-skills-business-essentials-certificate.pdf)
+[View Certificate PDF](excel-skills-business-essentials-certificate.pdf)
 
 [Verify Certificate](https://coursera.org/verify/Z41Z0MR9DDZ1)
 ## Next Step
