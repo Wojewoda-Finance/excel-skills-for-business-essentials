@@ -44,6 +44,42 @@ Built an Excel sales dashboard for a fictional online bookstore using charts, da
 ![Dashboard](w06-after.png)
 
 
+# Final Assessment - Summary Dashboard
+
+Completed the final Excel assessment project focused on data analysis, dashboard creation and business reporting.
+
+The project included:
+- Creating interactive charts and dashboards
+- Using formulas and calculations for income and expenditure analysis
+- Applying filters, sorting and conditional formatting
+- Detecting duplicate records
+- Building pie charts, line charts and stacked column charts
+- Working with large datasets and summary statistics
+
+## Skills Used
+- Excel Formulas
+- Conditional Formatting
+- Data Filtering & Sorting
+- Dashboard Design
+- Data Visualization
+- Pie Charts
+- Line Charts
+- Stacked Column Charts
+- Business Reporting
+
+## Before
+![Before](C1-Assessment-before.png)
+
+## Final Dashboard
+![Dashboard](C1-Assessment-after.png)
+
+## Certificate
+
+Completed the "Excel Skills for Business: Essentials" course by Macquarie University via Coursera.
+
+[View Certificate PDF](./excel-skills-business-essentials-certificate.pdf)
+
+[Verify Certificate](https://coursera.org/verify/Z41Z0MR9DDZ1)
 ## Next Step
 
 This repository covers projects and assessments from the Excel Skills for Business: Essentials course.
