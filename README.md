@@ -42,3 +42,10 @@ Built an Excel sales dashboard for a fictional online bookstore using charts, da
 
 ### Final Dashboard
 ![Dashboard](w06-after.png)
+
+
+## Next Step
+
+This repository covers projects and assessments from the Excel Skills for Business: Essentials course.
+
+The next repository will focus on more advanced Excel topics, including business reporting, data management, data integration, automation, consolidation techniques, dashboards, and advanced spreadsheet workflows.
