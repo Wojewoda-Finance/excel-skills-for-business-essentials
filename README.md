@@ -23,3 +23,22 @@ Practical Excel tasks using a business dataset, including:
 ### W04 Assessment
 ![W04 Screenshot](image.png)
 
+
+## W06 - Sales Dashboard Challenge
+
+Built an Excel sales dashboard for a fictional online bookstore using charts, dashboard layout techniques, and data visualization tools.
+
+### Skills Used
+- Pie Charts
+- Column & Line Charts
+- Dashboard Design
+- Data Visualization
+- Axis Formatting
+- Chart Customization
+- Data Labels & Legends
+
+### Before
+![Before](w06-before.png)
+
+### Final Dashboard
+![Dashboard](w06-after.png)
